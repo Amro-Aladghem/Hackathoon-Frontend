@@ -7,9 +7,5 @@ export default function BotRouter() {
   const { botId } = useParams();
   const SelectedComponent = botComponents[botId];
 
-  if (!SelectedComponent) {
-    return <div>البوت غير موجود</div>;
-  }
-
   return <SelectedComponent />;
 }

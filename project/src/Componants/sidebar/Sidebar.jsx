@@ -22,6 +22,19 @@ export default function Sidebar() {
   }, [id]);
 
   const handleBotSelect = (bot) => {
+    
+    if(bot.id=="question_bank")
+    {
+      navigate('tools/quizmaker');
+      return;
+    }
+
+    if(bot.id=="planner")
+    {
+      navigate('tools/timetable');
+      return;
+    }
+
     navigate(`/bot/${bot.id}`);
     setSelectedBot(bot);
     if (window.innerWidth < 768) {

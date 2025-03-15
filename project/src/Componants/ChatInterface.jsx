@@ -6,7 +6,7 @@ import { Sendata } from "../services/Sendata";
 import bots from "../botsData/BotsData";
 import { useParams } from "react-router-dom";
 
-export default function ChatInterface() {
+export default function ChauutInterface() {
   const messagesEndRef = useRef(null);
   const { botId } = useParams();
   const selectedBot = bots.find((bot) => bot.id === botId);
@@ -50,7 +50,6 @@ export default function ChatInterface() {
 
   const handleSendMessage = async () => {
     if (inputMessage.trim() === "" && !uploadedFile) return;
-
     // إضافة رسالة المستخدم فوراً
     const newUserMessage = {
       sender: "user",
