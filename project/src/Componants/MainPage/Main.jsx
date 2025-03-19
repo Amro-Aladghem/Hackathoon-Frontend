@@ -1,4 +1,4 @@
-import { useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 
 export function Main() {
   const navigate = useNavigate();
@@ -25,8 +25,8 @@ export function Main() {
                   بالذكاء الأصطناعي
                 </p>
                 <div className="relative flex flex-col sm:flex-row sm:space-x-4">
-                  <a
-                    href="/bot/physics"
+                  <Link
+                    to="/bot/physics"
                     className="flex font-extrabold items-center w-full px-6 py-3 mb-3 text-lg text-white bg-indigo-600 rounded-md sm:mb-0 hover:bg-indigo-700 sm:w-auto"
                   >
                     جربه مجانا
@@ -43,13 +43,13 @@ export function Main() {
                       <line x1="5" y1="12" x2="19" y2="12"></line>
                       <polyline points="12 5 19 12 12 19"></polyline>
                     </svg>
-                  </a>
-                  <a
+                  </Link>
+                  <Link
                     href="#_"
                     className="flex items-center px-6 py-3 font-extrabold text-gray-500 bg-gray-100 rounded-md hover:bg-gray-200 hover:text-gray-600"
                   >
                     تعلم المزيد
-                  </a>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -88,8 +88,8 @@ export function Main() {
                   حمل ملفك الدراسي pdf وأحصل على أسئلة تدريبية شاملة
                 </p>
                 <div className="relative flex flex-col sm:flex-row sm:space-x-4">
-                  <a
-                    href="/tools/quizmaker"
+                  <Link
+                    to="/bot/question_bank"
                     className="flex font-extrabold items-center w-full px-6 py-3 mb-3 text-lg text-white bg-indigo-600 rounded-md sm:mb-0 hover:bg-indigo-700 sm:w-auto"
                   >
                     جربه الأن مجانا
@@ -106,7 +106,7 @@ export function Main() {
                       <line x1="5" y1="12" x2="19" y2="12"></line>
                       <polyline points="12 5 19 12 12 19"></polyline>
                     </svg>
-                  </a>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -139,8 +139,8 @@ export function Main() {
                   واستمتع بمخطط زمني فائق
                 </p>
                 <div className="relative flex flex-col sm:flex-row sm:space-x-4">
-                  <a
-                    href="/tools/timetable"
+                  <Link
+                    to="/bot/planner"
                     className="flex font-extrabold items-center w-full px-6 py-3 mb-3 text-lg text-white bg-indigo-600 rounded-md sm:mb-0 hover:bg-indigo-700 sm:w-auto"
                   >
                     جربه الأن مجانا
@@ -157,7 +157,7 @@ export function Main() {
                       <line x1="5" y1="12" x2="19" y2="12"></line>
                       <polyline points="12 5 19 12 12 19"></polyline>
                     </svg>
-                  </a>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -192,8 +192,8 @@ export function Main() {
                   اجب عن أسئلة تقيم اذا كانت المهنة أو المجال منساب لك ام لا
                 </p>
                 <div className="relative flex flex-col sm:flex-row sm:space-x-4">
-                  <a
-                    href="/tools/review"
+                  <Link
+                    to="/bot/FutureSpecialization"
                     className="flex font-extrabold items-center w-full px-6 py-3 mb-3 text-lg text-white bg-indigo-600 rounded-md sm:mb-0 hover:bg-indigo-700 sm:w-auto"
                   >
                     جربه الأن مجانا
@@ -210,7 +210,7 @@ export function Main() {
                       <line x1="5" y1="12" x2="19" y2="12"></line>
                       <polyline points="12 5 19 12 12 19"></polyline>
                     </svg>
-                  </a>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -254,17 +254,17 @@ export function Main() {
             <img className="rounded-t-lg" src="/mathbot.jpg" alt="" />
           </a>
           <div className="p-5">
-            <a href="">
+            <Link to={"/bot/mathematics"}>
               <h5 className="mb-2 text-2xl font-bold tracking-tight text-indigo-600 dark:text-white">
                 مادة الرياضيات
               </h5>
-            </a>
+            </Link>
             <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
               يستطيع مساعدتك بجميع المسائل الرياضية وفقا لمستواك الدراسي في
               الرياضيات
             </p>
-            <a
-              href=""
+            <Link
+              to="/bot/mathematics"
               className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-indigo-600 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
             >
               انتقل الأن
@@ -283,7 +283,7 @@ export function Main() {
                   d="M1 5h12m0 0L9 1m4 4L9 9"
                 />
               </svg>
-            </a>
+            </Link>
           </div>
         </div>
         {/*card 2  */}
@@ -291,21 +291,21 @@ export function Main() {
           className="max-w-sm w-1/5 bg-white border border-gray-200 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700 shadow-indigo-600/50 drop-shadow-[0_0_15px_rgba(67,56,202,0.5)]"
           onClick={() => navigate("bot/physics")}
         >
-          <a href="">
+          <Link to="/bot/physics">
             <img className="rounded-t-lg" src="/physicsbot.jpg" alt="" />
-          </a>
+          </Link>
           <div className="p-5">
-            <a href="">
+            <Link to="/bot/physics">
               <h5 className="mb-2 text-2xl font-bold tracking-tight text-indigo-600 dark:text-white">
                 مادة الفيزياء
               </h5>
-            </a>
+            </Link>
             <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
               يستطيع مساعدتك بجميع المسائل الفيزيائية وفقا لمستواك الدراسي في
               الفيزياء
             </p>
-            <a
-              href=""
+            <Link
+              to="/bot/physics"
               className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-indigo-600 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
             >
               انتقل الأن
@@ -324,7 +324,7 @@ export function Main() {
                   d="M1 5h12m0 0L9 1m4 4L9 9"
                 />
               </svg>
-            </a>
+            </Link>
           </div>
         </div>
         {/*card 3  */}
@@ -332,21 +332,21 @@ export function Main() {
           className="max-w-sm w-1/5 bg-white border border-gray-200 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700 shadow-indigo-600/50 drop-shadow-[0_0_15px_rgba(67,56,202,0.5)]"
           onClick={() => navigate("bot/chemistry")}
         >
-          <a href="">
+          <Link to="/bot/chemistry">
             <img className="rounded-t-lg" src="/chemistbot.jpg" alt="" />
-          </a>
+          </Link>
           <div className="p-5">
-            <a href="">
+            <Link to="/bot/chemistry">
               <h5 className="mb-2 text-2xl font-bold tracking-tight text-indigo-600 dark:text-white">
                 مادة الكيمياء
               </h5>
-            </a>
+            </Link>
             <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
               يستطيع مساعدتك بجميع المسائل الكيميائية وفقا لمستواك الدراسي في
               الكيمياء
             </p>
-            <a
-              href=""
+            <Link
+              to="/bot/chemistry"
               className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-indigo-600 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
             >
               انتقل الأن
@@ -365,7 +365,7 @@ export function Main() {
                   d="M1 5h12m0 0L9 1m4 4L9 9"
                 />
               </svg>
-            </a>
+            </Link>
           </div>
         </div>
         {/* card 4 */}
@@ -373,21 +373,21 @@ export function Main() {
           className="max-w-sm w-1/5 bg-white border border-gray-200 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700 shadow-indigo-600/50 drop-shadow-[0_0_15px_rgba(67,56,202,0.5)]"
           onClick={() => navigate("bot/history")}
         >
-          <a href="">
+          <Link to="/bot/history">
             <img className="rounded-t-lg" src="/historybot.jpg" alt="" />
-          </a>
+          </Link>
           <div className="p-5">
-            <a href="">
+            <Link to="/bot/history">
               <h5 className="mb-2 text-2xl font-bold tracking-tight text-indigo-600 dark:text-white">
                 مادة التاريخ
               </h5>
-            </a>
+            </Link>
             <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
               يستطيع مساعدنك بجميع المسائل التاريخية
             </p>
             <br></br>
-            <a
-              href=""
+            <Link
+              to={"/bot/history"}
               className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-indigo-600 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
             >
               انتقل الأن
@@ -406,7 +406,7 @@ export function Main() {
                   d="M1 5h12m0 0L9 1m4 4L9 9"
                 />
               </svg>
-            </a>
+            </Link>
           </div>
         </div>
       </div>
