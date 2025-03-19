@@ -43,12 +43,12 @@ function DesktopSidebar({ selectedBot, handleBotSelect }) {
                 } border rounded-lg p-3 cursor-pointer transition-all`}
                 onClick={() => handleBotSelect(bot)}
               >
-                <div className="flex items-center">
-                  <div className="bg-white p-2 rounded-full">{bot.icon}</div>
+                <div className="flex items-center justify-end gap-2">
                   <div className="mr-3 text-right">
                     <h4 className="font-medium text-sm">{bot.name}</h4>
                     <p className="text-xs text-gray-600">{bot.type}</p>
                   </div>
+                  <div className="bg-white p-2 rounded-full">{bot.icon}</div>
                 </div>
               </div>
             ))}

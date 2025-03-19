@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import QuizComponent from './QuizComponent';
+import React, { useState } from "react";
+import QuizComponent from "./Quizcomponent";
 
 const QuizMaker = () => {
   const [file, setFile] = useState(null);
@@ -11,29 +11,30 @@ const QuizMaker = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     if (!file) {
-      setError('Please upload a file');
+      setError("Please upload a file");
       return;
     }
 
     const formData = new FormData();
-    formData.append('NumberOfQuestion', Math.min(numQuestions, 10)); 
-    formData.append('file', file);
+    formData.append("NumberOfQuestion", Math.min(numQuestions, 10));
+    formData.append("file", file);
 
     try {
       setLoading(true);
       setError(null);
-      
+
       const response = await fetch(
-        'https://hackathoonproject-g4hkagbff0gygshm.germanywestcentral-01.azurewebsites.net/api/v1/tools/quizmaker',
-        { method: 'POST', body: formData }
+        "https://hackathoonproject-g4hkagbff0gygshm.germanywestcentral-01.azurewebsites.net/api/v1/tools/quizmaker",
+        { method: "POST", body: formData }
       );
 
-      if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
-      
+      if (!response.ok)
+        throw new Error(`HTTP error! status: ${response.status}`);
+
       const data = await response.json();
-      setQuestions(data.questions.slice(0, 10)); 
+      setQuestions(data.questions.slice(0, 10));
     } catch (err) {
-      setError(err.message || 'Failed to generate quiz');
+      setError(err.message || "Failed to generate quiz");
     } finally {
       setLoading(false);
     }
@@ -41,11 +42,14 @@ const QuizMaker = () => {
 
   return (
     <div className="max-w-4xl mx-auto p-6 min-h-screen bg-gradient-to-b from-blue-50 to-white">
-      <form onSubmit={handleSubmit} className="bg-white p-6 rounded-2xl shadow-xl mb-8 border border-blue-100">
+      <form
+        onSubmit={handleSubmit}
+        className="bg-white p-6 rounded-2xl shadow-xl mb-8 border border-blue-100"
+      >
         <h2 className="text-2xl font-bold mb-6 text-center text-blue-600">
           ✨ Quiz Generator ✨
         </h2>
-        
+
         <div className="mb-6">
           <label className="block text-sm font-semibold text-gray-700 mb-3">
             Number of Questions (Max 10)
@@ -87,11 +91,15 @@ const QuizMaker = () => {
         >
           {loading ? (
             <span className="flex items-center">
-              <svg className="animate-spin h-5 w-5 mr-3 text-white" viewBox="0 0 24 24">
-              </svg>
+              <svg
+                className="animate-spin h-5 w-5 mr-3 text-white"
+                viewBox="0 0 24 24"
+              ></svg>
               Generating...
             </span>
-          ) : 'Generate Quiz'}
+          ) : (
+            "Generate Quiz"
+          )}
         </button>
 
         {error && (

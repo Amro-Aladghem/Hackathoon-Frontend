@@ -4,10 +4,24 @@ import {
   Book,
   BrainCircuit,
   Calculator,
+  Lightbulb,
   Scroll,
 } from "lucide-react";
 // ﻻتعدل عليه ﻷنه مابفرق معك بأي شيء
 const bots = [
+  {
+    id: "FutureSpecialization",
+    name: "مساعد التخصصات",
+    type: "استشارة تعليمية",
+    description:
+      "يساعدك في اختيار التخصص الدراسي المناسب لك بناءً على اهتماماتك ومهاراتك.",
+    icon: <Lightbulb className="w-6 h-6 text-blue-600 md:w-5 md:h-5" />,
+    color: "bg-blue-200",
+    hoverColor: "hover:bg-blue-300",
+    activeColor: "bg-blue-400",
+    textColor: "text-blue-950",
+    api: import.meta.env.VITE_FUTURE_JOB_API,
+  },
   {
     id: "planner",
     name: "التخطيط الدراسي",
@@ -18,7 +32,7 @@ const bots = [
     hoverColor: "hover:bg-blue-200",
     activeColor: "bg-blue-300",
     textColor: "text-blue-900",
-    api: import.meta.env.VITE_PLANNER_API, // تأكد من اسم الapi الموجود في ملف .env
+    api: import.meta.env.VITE_TABLE_TIME_API,
   },
   {
     id: "question_bank",
@@ -30,7 +44,7 @@ const bots = [
     hoverColor: "hover:bg-purple-200",
     activeColor: "bg-purple-300",
     textColor: "text-purple-900",
-    api: import.meta.env.VITE_QUESTION_API, // تأكد من اسم الapi الموجود في ملف .env
+    api: import.meta.env.VITE_QUIZ_API,
   },
   {
     id: "chemistry",
