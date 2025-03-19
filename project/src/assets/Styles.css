@@ -11,3 +11,23 @@
     }
 }
 
+#taddress-logo{
+  max-height: 51.99px;
+  max-width: 170px; 
+}
+
+#our-service-logo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+
+
+
+
+
+

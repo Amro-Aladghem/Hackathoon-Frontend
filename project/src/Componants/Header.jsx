@@ -12,10 +12,10 @@ export default function Header() {
 
   return (
     <header  className="bg-white shadow">
-      <div className="container mx-auto px-8 py-4 flex justify-between items-center">
+      <div  className="container mx-auto px-8 py-4 flex justify-between items-center max-h-20">
         <Link to="/" className="text-xl md:text-2xl font-bold text-gray-900">
           <div className="flex items-center gap-4">
-            <img src="OurLogo.png" height="200px" width="170px" />
+            <img id="taddress-logo" src="/OurLogo.png"   />
           </div>
         </Link>
 
@@ -28,7 +28,31 @@ export default function Header() {
             الرئيسية
           </Link>
           <Link
-            to="/about"
+            to="/bot/physics"
+            className="text-indigo-600 hover:text-blue-600 font-medium"
+          >
+            البوتات التعليمية
+          </Link>
+          <Link
+            to="/tools/quizmaker"
+            className="text-indigo-600 hover:text-blue-600 font-medium"
+          >
+            صانع الأمتحانات
+          </Link>
+          <Link
+            to="/tools/timetable"
+            className="text-indigo-600 hover:text-blue-600 font-medium"
+          >
+            المخطط الزمني
+          </Link>
+          <Link
+            to="/tools/review"
+            className="text-indigo-600 hover:text-blue-600 font-medium"
+          >
+            اختبار التقييم
+          </Link>
+          <Link
+            to="/aboutus"
             className="text-gray-700 hover:text-indigo-600 font-medium"
           >
             حولنا
@@ -68,13 +92,31 @@ export default function Header() {
               الرئيسية
             </Link>
             <Link
-              to="/about"
+            to="/bot/physics"
+            className="text-indigo-600 hover:text-blue-600 font-medium py-2"
+          >
+            البوتات التعليمية
+          </Link>
+          <Link
+            to="/tools/quizmaker"
+            className="text-indigo-600 hover:text-blue-600 font-medium py-2"
+          >
+            صانع الأمتحانات
+          </Link>
+          <Link
+            to="/tools/timetable"
+            className="text-indigo-600 hover:text-blue-600 font-medium py-2"
+          >
+            المخطط الزمني
+          </Link>
+            <Link
+              to="/aboutus"
               className="text-gray-700 hover:text-indigo-600 font-medium py-2"
             >
               حولنا
             </Link>
             <Link
-              to="/how-it-works"
+              to="/"
               className="text-gray-700 hover:text-indigo-600 font-medium py-2"
             >
               طريقة العمل

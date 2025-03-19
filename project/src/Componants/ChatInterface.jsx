@@ -43,6 +43,7 @@ export default function ChauutInterface() {
     };
 
     document.addEventListener("keydown", handleKeyDown);
+    window.scrollTo(0, document.body.scrollHeight);
     return () => {
       document.removeEventListener("keydown", handleKeyDown);
     };

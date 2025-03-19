@@ -25,13 +25,13 @@ export default function Sidebar() {
     
     if(bot.id=="question_bank")
     {
-      navigate('tools/quizmaker');
+      navigate('/tools/quizmaker');
       return;
     }
 
     if(bot.id=="planner")
     {
-      navigate('tools/timetable');
+      navigate('/tools/timetable');
       return;
     }
 
