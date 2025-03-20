@@ -18,7 +18,7 @@ const bots = [
     hoverColor: "hover:bg-blue-200",
     activeColor: "bg-blue-300",
     textColor: "text-blue-900",
-    api: import.meta.env.VITE_PLANNER_API, // تأكد من اسم الapi الموجود في ملف .env
+    api: ""
   },
   {
     id: "question_bank",
@@ -30,7 +30,7 @@ const bots = [
     hoverColor: "hover:bg-purple-200",
     activeColor: "bg-purple-300",
     textColor: "text-purple-900",
-    api: import.meta.env.VITE_QUESTION_API, // تأكد من اسم الapi الموجود في ملف .env
+    api: ""
   },
   {
     id: "chemistry",
@@ -43,7 +43,7 @@ const bots = [
     hoverColor: "hover:bg-green-200",
     activeColor: "bg-green-300",
     textColor: "text-green-900",
-    api: import.meta.env.VITE_CHEMISTRY_API,
+    api: 'https://hackathoonproject-g4hkagbff0gygshm.germanywestcentral-01.azurewebsites.net/api/v1/bot/chemistry',
   },
   {
     id: "mathematics",
@@ -56,7 +56,7 @@ const bots = [
     hoverColor: "hover:bg-red-200",
     activeColor: "bg-red-300",
     textColor: "text-red-900",
-    api: import.meta.env.VITE_MATH_API,
+    api: 'https://hackathoonproject-g4hkagbff0gygshm.germanywestcentral-01.azurewebsites.net/api/v1/bot/math',
   },
   {
     id: "physics",
@@ -68,7 +68,7 @@ const bots = [
     hoverColor: "hover:bg-amber-200",
     activeColor: "bg-amber-300",
     textColor: "text-amber-900",
-    api: import.meta.env.VITE_PHYSICS_API,
+    api: 'https://hackathoonproject-g4hkagbff0gygshm.germanywestcentral-01.azurewebsites.net/api/v1/bot/physics',
   },
   {
     id: "history",
@@ -81,7 +81,7 @@ const bots = [
     hoverColor: "hover:bg-indigo-200",
     activeColor: "bg-indigo-300",
     textColor: "text-indigo-900",
-    api: import.meta.env.VITE_HISTORY_API,
+    api: 'https://hackathoonproject-g4hkagbff0gygshm.germanywestcentral-01.azurewebsites.net/api/v1/bot/history',
   },
 ];
 
