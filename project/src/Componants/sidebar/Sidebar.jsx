@@ -5,8 +5,8 @@ import DesktopSidebar from "./DesktopSidebar";
 import MobileSidebar from "./MobleSidebar";
 
 export default function Sidebar() {
-  // هون بستخدم useMatch حتى اعرف انا بأي صفحة وفي حالة تغيرت الصفحة فبشيل تأثير التريكز عن البوت او تأثير focus عن البوت
   const match = useMatch("/bot/:botId");
+  const isMainPage = useMatch("/");
   const id = match?.params.botId;
   const navigate = useNavigate();
   const [selectedBot, setSelectedBot] = useState(null);
@@ -22,19 +22,6 @@ export default function Sidebar() {
   }, [id]);
 
   const handleBotSelect = (bot) => {
-    
-    if(bot.id=="question_bank")
-    {
-      navigate('/tools/quizmaker');
-      return;
-    }
-
-    if(bot.id=="planner")
-    {
-      navigate('/tools/timetable');
-      return;
-    }
-
     navigate(`/bot/${bot.id}`);
     setSelectedBot(bot);
     if (window.innerWidth < 768) {
@@ -42,6 +29,7 @@ export default function Sidebar() {
     }
   };
 
+  if (isMainPage) return null;
   return (
     <>
       <MobileSidebar
