@@ -1,0 +1,12 @@
+C:\Users\Khaled\Desktop\Salam Hackathoon Project\Security\bin\Release\net8.0\Security.deps.json
+C:\Users\Khaled\Desktop\Salam Hackathoon Project\Security\bin\Release\net8.0\Security.dll
+C:\Users\Khaled\Desktop\Salam Hackathoon Project\Security\bin\Release\net8.0\Security.pdb
+C:\Users\Khaled\Desktop\Salam Hackathoon Project\Security\obj\Release\net8.0\Security.csproj.AssemblyReference.cache
+C:\Users\Khaled\Desktop\Salam Hackathoon Project\Security\obj\Release\net8.0\Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khaled\Desktop\Salam Hackathoon Project\Security\obj\Release\net8.0\Security.AssemblyInfoInputs.cache
+C:\Users\Khaled\Desktop\Salam Hackathoon Project\Security\obj\Release\net8.0\Security.AssemblyInfo.cs
+C:\Users\Khaled\Desktop\Salam Hackathoon Project\Security\obj\Release\net8.0\Security.csproj.CoreCompileInputs.cache
+C:\Users\Khaled\Desktop\Salam Hackathoon Project\Security\obj\Release\net8.0\Security.dll
+C:\Users\Khaled\Desktop\Salam Hackathoon Project\Security\obj\Release\net8.0\refint\Security.dll
+C:\Users\Khaled\Desktop\Salam Hackathoon Project\Security\obj\Release\net8.0\Security.pdb
+C:\Users\Khaled\Desktop\Salam Hackathoon Project\Security\obj\Release\net8.0\ref\Security.dll

@@ -1,0 +1,899 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\SalamHackAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EEEF2F2-E1DE-4783-8A99-4214FF173E5E}|..\\Services\\Services.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EEEF2F2-E1DE-4783-8A99-4214FF173E5E}|..\\Services\\Services.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\services\\tokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EEEF2F2-E1DE-4783-8A99-4214FF173E5E}|..\\Services\\Services.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\services\\tabletimeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EEEF2F2-E1DE-4783-8A99-4214FF173E5E}|..\\Services\\Services.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\services\\sharedservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EEEF2F2-E1DE-4783-8A99-4214FF173E5E}|..\\Services\\Services.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\services\\reviewquestionsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EEEF2F2-E1DE-4783-8A99-4214FF173E5E}|..\\Services\\Services.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\services\\physicsbotservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EEEF2F2-E1DE-4783-8A99-4214FF173E5E}|..\\Services\\Services.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\services\\mathbotservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EEEF2F2-E1DE-4783-8A99-4214FF173E5E}|..\\Services\\Services.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\services\\historybotservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EEEF2F2-E1DE-4783-8A99-4214FF173E5E}|..\\Services\\Services.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\services\\exammakerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EEEF2F2-E1DE-4783-8A99-4214FF173E5E}|..\\Services\\Services.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\services\\chemistrybotservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D1CA87-6125-4DCC-AA5A-FEE7C98A3BBE}|..\\Database\\Database.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\database\\clsconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24D2A0-A3DF-4EFA-B097-129D66A1DFF4}|SalamHackAPI.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\salamhackapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B24D2A0-A3DF-4EFA-B097-129D66A1DFF4}|SalamHackAPI.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24D2A0-A3DF-4EFA-B097-129D66A1DFF4}|SalamHackAPI.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\salamhackapi\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B24D2A0-A3DF-4EFA-B097-129D66A1DFF4}|SalamHackAPI.csproj|solutionrelative:controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084475DB-A67A-44CC-B087-D43C48C8F672}|..\\DTOs\\DTOs.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\dtos\\reviewdtos\\reviewresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24D2A0-A3DF-4EFA-B097-129D66A1DFF4}|SalamHackAPI.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\salamhackapi\\controllers\\toolscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B24D2A0-A3DF-4EFA-B097-129D66A1DFF4}|SalamHackAPI.csproj|solutionrelative:controllers\\toolscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084475DB-A67A-44CC-B087-D43C48C8F672}|..\\DTOs\\DTOs.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\dtos\\reviewdtos\\questionresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084475DB-A67A-44CC-B087-D43C48C8F672}|..\\DTOs\\DTOs.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\dtos\\reviewdtos\\reviewchoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084475DB-A67A-44CC-B087-D43C48C8F672}|..\\DTOs\\DTOs.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\dtos\\reviewdtos\\reviewquestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084475DB-A67A-44CC-B087-D43C48C8F672}|..\\DTOs\\DTOs.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\dtos\\examdtos\\choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084475DB-A67A-44CC-B087-D43C48C8F672}|..\\DTOs\\DTOs.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\dtos\\examdtos\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084475DB-A67A-44CC-B087-D43C48C8F672}|..\\DTOs\\DTOs.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\dtos\\examdtos\\questionswrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D1CA87-6125-4DCC-AA5A-FEE7C98A3BBE}|..\\Database\\Database.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\database\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24D2A0-A3DF-4EFA-B097-129D66A1DFF4}|SalamHackAPI.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\salamhackapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B24D2A0-A3DF-4EFA-B097-129D66A1DFF4}|SalamHackAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084475DB-A67A-44CC-B087-D43C48C8F672}|..\\DTOs\\DTOs.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\dtos\\reviewdtos\\reviewrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084475DB-A67A-44CC-B087-D43C48C8F672}|..\\DTOs\\DTOs.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\dtos\\reviewdtos\\questionsrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084475DB-A67A-44CC-B087-D43C48C8F672}|..\\DTOs\\DTOs.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\dtos\\examrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D1CA87-6125-4DCC-AA5A-FEE7C98A3BBE}|..\\Database\\Database.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\database\\entities\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084475DB-A67A-44CC-B087-D43C48C8F672}|..\\DTOs\\DTOs.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\dtos\\timetablerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084475DB-A67A-44CC-B087-D43C48C8F672}|..\\DTOs\\DTOs.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\dtos\\timetabledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24D2A0-A3DF-4EFA-B097-129D66A1DFF4}|SalamHackAPI.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\salamhackapi\\salamhackapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1B24D2A0-A3DF-4EFA-B097-129D66A1DFF4}|SalamHackAPI.csproj|solutionrelative:salamhackapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084475DB-A67A-44CC-B087-D43C48C8F672}|..\\DTOs\\DTOs.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\dtos\\chatdtos\\requestmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D1CA87-6125-4DCC-AA5A-FEE7C98A3BBE}|..\\Database\\Database.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\database\\entities\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084475DB-A67A-44CC-B087-D43C48C8F672}|..\\DTOs\\DTOs.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\dtos\\chatdtos\\responsemessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24D2A0-A3DF-4EFA-B097-129D66A1DFF4}|SalamHackAPI.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\salamhackapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B24D2A0-A3DF-4EFA-B097-129D66A1DFF4}|SalamHackAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084475DB-A67A-44CC-B087-D43C48C8F672}|..\\DTOs\\DTOs.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\dtos\\userdtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084475DB-A67A-44CC-B087-D43C48C8F672}|..\\DTOs\\DTOs.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\dtos\\userdtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EEEF2F2-E1DE-4783-8A99-4214FF173E5E}|..\\Services\\Services.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D1CA87-6125-4DCC-AA5A-FEE7C98A3BBE}|..\\Database\\Database.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\database\\entities\\conversationbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D1CA87-6125-4DCC-AA5A-FEE7C98A3BBE}|..\\Database\\Database.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\database\\entities\\chemistryconversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D1CA87-6125-4DCC-AA5A-FEE7C98A3BBE}|..\\Database\\Database.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\database\\entities\\mathconversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D1CA87-6125-4DCC-AA5A-FEE7C98A3BBE}|..\\Database\\Database.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\database\\entities\\historyconversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D1CA87-6125-4DCC-AA5A-FEE7C98A3BBE}|..\\Database\\Database.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\database\\entities\\physicsconversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D1CA87-6125-4DCC-AA5A-FEE7C98A3BBE}|..\\Database\\Database.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\database\\entities\\roletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24D2A0-A3DF-4EFA-B097-129D66A1DFF4}|SalamHackAPI.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\salamhackapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B24D2A0-A3DF-4EFA-B097-129D66A1DFF4}|SalamHackAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B24D2A0-A3DF-4EFA-B097-129D66A1DFF4}|SalamHackAPI.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\salamhackapi\\salamhackapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B24D2A0-A3DF-4EFA-B097-129D66A1DFF4}|SalamHackAPI.csproj|solutionrelative:salamhackapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Migrations\\20250307190028_firstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D1CA87-6125-4DCC-AA5A-FEE7C98A3BBE}|..\\Database\\Database.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\database\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084475DB-A67A-44CC-B087-D43C48C8F672}|..\\DTOs\\DTOs.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\dtos\\userdtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E302F0F-3F7A-40DD-A369-DC8849098E16}|..\\Security\\Security.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\security\\security.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E302F0F-3F7A-40DD-A369-DC8849098E16}|..\\Security\\Security.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\security\\securitymethode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D1CA87-6125-4DCC-AA5A-FEE7C98A3BBE}|..\\Database\\Database.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\database\\migrations\\20250307190644_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D1CA87-6125-4DCC-AA5A-FEE7C98A3BBE}|..\\Database\\Database.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\database\\entities\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D1CA87-6125-4DCC-AA5A-FEE7C98A3BBE}|..\\Database\\Database.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\database\\entities\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D1CA87-6125-4DCC-AA5A-FEE7C98A3BBE}|..\\Database\\Database.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\database\\migrations\\20250311174312_addconversationstables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D1CA87-6125-4DCC-AA5A-FEE7C98A3BBE}|..\\Database\\Database.csproj|c:\\users\\khaled\\desktop\\salam hackathoon project\\database\\migrations\\20250317134904_addquestionstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReviewQuestionsServices.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Services\\ReviewQuestionsServices.cs",
+              "RelativeDocumentMoniker": "..\\Services\\ReviewQuestionsServices.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Services\\ReviewQuestionsServices.cs",
+              "RelativeToolTip": "..\\Services\\ReviewQuestionsServices.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwBQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:59:49.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SharedServices.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Services\\SharedServices.cs",
+              "RelativeDocumentMoniker": "..\\Services\\SharedServices.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Services\\SharedServices.cs",
+              "RelativeToolTip": "..\\Services\\SharedServices.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAE4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T11:20:57.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TableTimeServices.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Services\\TableTimeServices.cs",
+              "RelativeDocumentMoniker": "..\\Services\\TableTimeServices.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Services\\TableTimeServices.cs",
+              "RelativeToolTip": "..\\Services\\TableTimeServices.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:34:52.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenServices.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Services\\TokenServices.cs",
+              "RelativeDocumentMoniker": "..\\Services\\TokenServices.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Services\\TokenServices.cs",
+              "RelativeToolTip": "..\\Services\\TokenServices.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:44:03.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "..\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Services\\UserServices.cs",
+              "RelativeToolTip": "..\\Services\\UserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T19:18:41.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PhysicsBotServices.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Services\\PhysicsBotServices.cs",
+              "RelativeDocumentMoniker": "..\\Services\\PhysicsBotServices.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Services\\PhysicsBotServices.cs",
+              "RelativeToolTip": "..\\Services\\PhysicsBotServices.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:34:35.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MathBotServices.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Services\\MathBotServices.cs",
+              "RelativeDocumentMoniker": "..\\Services\\MathBotServices.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Services\\MathBotServices.cs",
+              "RelativeToolTip": "..\\Services\\MathBotServices.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwDAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:15:27.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HistoryBotServices.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Services\\HistoryBotServices.cs",
+              "RelativeDocumentMoniker": "..\\Services\\HistoryBotServices.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Services\\HistoryBotServices.cs",
+              "RelativeToolTip": "..\\Services\\HistoryBotServices.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA1wCkAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:32:04.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExamMakerService.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Services\\ExamMakerService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\ExamMakerService.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Services\\ExamMakerService.cs",
+              "RelativeToolTip": "..\\Services\\ExamMakerService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAEwCwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T11:12:49.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChemistryBotServices.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Services\\ChemistryBotServices.cs",
+              "RelativeDocumentMoniker": "..\\Services\\ChemistryBotServices.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Services\\ChemistryBotServices.cs",
+              "RelativeToolTip": "..\\Services\\ChemistryBotServices.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:22:10.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\SalamHackAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\SalamHackAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T19:43:20.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\clsConnection.cs",
+              "RelativeDocumentMoniker": "..\\Database\\clsConnection.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\clsConnection.cs",
+              "RelativeToolTip": "..\\Database\\clsConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:23:53.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReviewResultDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\ReviewDTOs\\ReviewResultDTO.cs",
+              "RelativeDocumentMoniker": "..\\DTOs\\ReviewDTOs\\ReviewResultDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\ReviewDTOs\\ReviewResultDTO.cs",
+              "RelativeToolTip": "..\\DTOs\\ReviewDTOs\\ReviewResultDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:48:42.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\SalamHackAPI\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\SalamHackAPI\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "Controllers\\ChatController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwFYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:58:11.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ToolsController.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\SalamHackAPI\\Controllers\\ToolsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ToolsController.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\SalamHackAPI\\Controllers\\ToolsController.cs",
+              "RelativeToolTip": "Controllers\\ToolsController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAA5wHoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:33:21.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QuestionResultDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\ReviewDTOs\\QuestionResultDTO.cs",
+              "RelativeDocumentMoniker": "..\\DTOs\\ReviewDTOs\\QuestionResultDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\ReviewDTOs\\QuestionResultDTO.cs",
+              "RelativeToolTip": "..\\DTOs\\ReviewDTOs\\QuestionResultDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T16:54:34.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReviewChoiceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\ReviewDTOs\\ReviewChoiceDTO.cs",
+              "RelativeDocumentMoniker": "..\\DTOs\\ReviewDTOs\\ReviewChoiceDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\ReviewDTOs\\ReviewChoiceDTO.cs",
+              "RelativeToolTip": "..\\DTOs\\ReviewDTOs\\ReviewChoiceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:07:33.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReviewQuestionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\ReviewDTOs\\ReviewQuestionDTO.cs",
+              "RelativeDocumentMoniker": "..\\DTOs\\ReviewDTOs\\ReviewQuestionDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\ReviewDTOs\\ReviewQuestionDTO.cs",
+              "RelativeToolTip": "..\\DTOs\\ReviewDTOs\\ReviewQuestionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:32:13.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Choice.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\ExamDTOs\\Choice.cs",
+              "RelativeDocumentMoniker": "..\\DTOs\\ExamDTOs\\Choice.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\ExamDTOs\\Choice.cs",
+              "RelativeToolTip": "..\\DTOs\\ExamDTOs\\Choice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T12:09:46.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "QuestionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\ExamDTOs\\QuestionDTO.cs",
+              "RelativeDocumentMoniker": "..\\DTOs\\ExamDTOs\\QuestionDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\ExamDTOs\\QuestionDTO.cs",
+              "RelativeToolTip": "..\\DTOs\\ExamDTOs\\QuestionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T12:38:05.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "QuestionsWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\ExamDTOs\\QuestionsWrapper.cs",
+              "RelativeDocumentMoniker": "..\\DTOs\\ExamDTOs\\QuestionsWrapper.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\ExamDTOs\\QuestionsWrapper.cs",
+              "RelativeToolTip": "..\\DTOs\\ExamDTOs\\QuestionsWrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T12:38:39.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Entities\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Database\\Entities\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Entities\\AppDbContext.cs",
+              "RelativeToolTip": "..\\Database\\Entities\\AppDbContext.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA8wEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:42:36.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\SalamHackAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\SalamHackAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T19:43:34.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ReviewRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\ReviewDTOs\\ReviewRequestDTO.cs",
+              "RelativeDocumentMoniker": "..\\DTOs\\ReviewDTOs\\ReviewRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\ReviewDTOs\\ReviewRequestDTO.cs",
+              "RelativeToolTip": "..\\DTOs\\ReviewDTOs\\ReviewRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:30:30.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "QuestionsRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\ReviewDTOs\\QuestionsRequestDTO.cs",
+              "RelativeDocumentMoniker": "..\\DTOs\\ReviewDTOs\\QuestionsRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\ReviewDTOs\\QuestionsRequestDTO.cs",
+              "RelativeToolTip": "..\\DTOs\\ReviewDTOs\\QuestionsRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T14:28:00.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ExamRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\ExamRequestDTO.cs",
+              "RelativeDocumentMoniker": "..\\DTOs\\ExamRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\ExamRequestDTO.cs",
+              "RelativeToolTip": "..\\DTOs\\ExamRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T11:16:27.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20250317134904_addQuestionsTable.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Migrations\\20250317134904_addQuestionsTable.cs",
+              "RelativeDocumentMoniker": "..\\Database\\Migrations\\20250317134904_addQuestionsTable.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Migrations\\20250317134904_addQuestionsTable.cs",
+              "RelativeToolTip": "..\\Database\\Migrations\\20250317134904_addQuestionsTable.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:49:05.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Entities\\Question.cs",
+              "RelativeDocumentMoniker": "..\\Database\\Entities\\Question.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Entities\\Question.cs",
+              "RelativeToolTip": "..\\Database\\Entities\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:26:38.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TimeTableDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\TimeTableDTO.cs",
+              "RelativeDocumentMoniker": "..\\DTOs\\TimeTableDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\TimeTableDTO.cs",
+              "RelativeToolTip": "..\\DTOs\\TimeTableDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:31:04.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TimeTableRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\TimeTableRequestDTO.cs",
+              "RelativeDocumentMoniker": "..\\DTOs\\TimeTableRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\TimeTableRequestDTO.cs",
+              "RelativeToolTip": "..\\DTOs\\TimeTableRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:42:27.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SalamHackAPI.http",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\SalamHackAPI\\SalamHackAPI.http",
+              "RelativeDocumentMoniker": "SalamHackAPI.http",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\SalamHackAPI\\SalamHackAPI.http",
+              "RelativeToolTip": "SalamHackAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-07T19:51:07.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RequestMessageDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\ChatDTOs\\RequestMessageDTO.cs",
+              "RelativeDocumentMoniker": "..\\DTOs\\ChatDTOs\\RequestMessageDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\ChatDTOs\\RequestMessageDTO.cs",
+              "RelativeToolTip": "..\\DTOs\\ChatDTOs\\RequestMessageDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:42:10.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\SalamHackAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\SalamHackAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T19:15:56.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Entities\\Session.cs",
+              "RelativeDocumentMoniker": "..\\Database\\Entities\\Session.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Entities\\Session.cs",
+              "RelativeToolTip": "..\\Database\\Entities\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:02:37.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ResponseMessageDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\ChatDTOs\\ResponseMessageDTO.cs",
+              "RelativeDocumentMoniker": "..\\DTOs\\ChatDTOs\\ResponseMessageDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\ChatDTOs\\ResponseMessageDTO.cs",
+              "RelativeToolTip": "..\\DTOs\\ChatDTOs\\ResponseMessageDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:47:55.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\UserDTOs\\UserLoginDTO.cs",
+              "RelativeDocumentMoniker": "..\\DTOs\\UserDTOs\\UserLoginDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\UserDTOs\\UserLoginDTO.cs",
+              "RelativeToolTip": "..\\DTOs\\UserDTOs\\UserLoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T19:21:13.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserRegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\UserDTOs\\UserRegisterDTO.cs",
+              "RelativeDocumentMoniker": "..\\DTOs\\UserDTOs\\UserRegisterDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\UserDTOs\\UserRegisterDTO.cs",
+              "RelativeToolTip": "..\\DTOs\\UserDTOs\\UserRegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T19:32:40.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20250311174312_addConversationsTables.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Migrations\\20250311174312_addConversationsTables.cs",
+              "RelativeDocumentMoniker": "..\\Database\\Migrations\\20250311174312_addConversationsTables.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Migrations\\20250311174312_addConversationsTables.cs",
+              "RelativeToolTip": "..\\Database\\Migrations\\20250311174312_addConversationsTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:43:12.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ChemistryConversation.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Entities\\ChemistryConversation.cs",
+              "RelativeDocumentMoniker": "..\\Database\\Entities\\ChemistryConversation.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Entities\\ChemistryConversation.cs",
+              "RelativeToolTip": "..\\Database\\Entities\\ChemistryConversation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:29:14.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "HistoryConversation.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Entities\\HistoryConversation.cs",
+              "RelativeDocumentMoniker": "..\\Database\\Entities\\HistoryConversation.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Entities\\HistoryConversation.cs",
+              "RelativeToolTip": "..\\Database\\Entities\\HistoryConversation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:28:04.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Services.csproj",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "..\\Services\\Services.csproj",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Services\\Services.csproj",
+              "RelativeToolTip": "..\\Services\\Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-07T19:19:04.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PhysicsConversation.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Entities\\PhysicsConversation.cs",
+              "RelativeDocumentMoniker": "..\\Database\\Entities\\PhysicsConversation.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Entities\\PhysicsConversation.cs",
+              "RelativeToolTip": "..\\Database\\Entities\\PhysicsConversation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:25:26.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ConversationBase.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Entities\\ConversationBase.cs",
+              "RelativeDocumentMoniker": "..\\Database\\Entities\\ConversationBase.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Entities\\ConversationBase.cs",
+              "RelativeToolTip": "..\\Database\\Entities\\ConversationBase.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:22:53.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RoleType.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Entities\\RoleType.cs",
+              "RelativeDocumentMoniker": "..\\Database\\Entities\\RoleType.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Entities\\RoleType.cs",
+              "RelativeToolTip": "..\\Database\\Entities\\RoleType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:08:18.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MathConversation.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Entities\\MathConversation.cs",
+              "RelativeDocumentMoniker": "..\\Database\\Entities\\MathConversation.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Entities\\MathConversation.cs",
+              "RelativeToolTip": "..\\Database\\Entities\\MathConversation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:04:54.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\Database\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Entities\\User.cs",
+              "RelativeToolTip": "..\\Database\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:29:21.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\SalamHackAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\SalamHackAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T11:33:55.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SalamHackAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\SalamHackAPI\\SalamHackAPI.csproj",
+              "RelativeDocumentMoniker": "SalamHackAPI.csproj",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\SalamHackAPI\\SalamHackAPI.csproj",
+              "RelativeToolTip": "SalamHackAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-08T16:26:34.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\UserDTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "..\\DTOs\\UserDTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\DTOs\\UserDTOs\\UserDTO.cs",
+              "RelativeToolTip": "..\\DTOs\\UserDTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T19:23:12.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Security.csproj",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Security\\Security.csproj",
+              "RelativeDocumentMoniker": "..\\Security\\Security.csproj",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Security\\Security.csproj",
+              "RelativeToolTip": "..\\Security\\Security.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-07T19:14:02.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SecurityMethode.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Security\\SecurityMethode.cs",
+              "RelativeDocumentMoniker": "..\\Security\\SecurityMethode.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Security\\SecurityMethode.cs",
+              "RelativeToolTip": "..\\Security\\SecurityMethode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T19:11:01.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20250307190644_firstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Migrations\\20250307190644_firstMigration.cs",
+              "RelativeDocumentMoniker": "..\\Database\\Migrations\\20250307190644_firstMigration.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Migrations\\20250307190644_firstMigration.cs",
+              "RelativeToolTip": "..\\Database\\Migrations\\20250307190644_firstMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T19:06:44.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250307190028_firstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Migrations\\20250307190028_firstMigration.cs",
+              "RelativeDocumentMoniker": "..\\Database\\Migrations\\20250307190028_firstMigration.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Migrations\\20250307190028_firstMigration.cs",
+              "RelativeToolTip": "..\\Database\\Migrations\\20250307190028_firstMigration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T19:00:28.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Entities\\Token.cs",
+              "RelativeDocumentMoniker": "..\\Database\\Entities\\Token.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Entities\\Token.cs",
+              "RelativeToolTip": "..\\Database\\Entities\\Token.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:38:22.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Entities\\UserType.cs",
+              "RelativeDocumentMoniker": "..\\Database\\Entities\\UserType.cs",
+              "ToolTip": "C:\\Users\\Khaled\\Desktop\\Salam Hackathoon Project\\Database\\Entities\\UserType.cs",
+              "RelativeToolTip": "..\\Database\\Entities\\UserType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:36:44.307Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
